@@ -2,10 +2,12 @@
 
 This page links the source code repositories related to the [H2020 NEANIAS](https://www.neanias.eu) project.
 
+The technical documentation of the services is available at [https://docs.neanias.eu](https://docs.neanias.eu)
+
 ### Underwater Services
 
-- U1 Service
-- U2 Service
+- Bathyprocessing Service (U1): based on [MB-System](https://github.com/dwcaress/MB-System/)
+- UW-MOS (U2) Service
 - U3 Service
 
 ### Atmospheric Services
