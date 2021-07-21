@@ -1,8 +1,8 @@
 ## H2020 NEANIAS source code repositories
 
-This page links the source code repositories related to the [H2020 NEANIAS](https://www.neanias.eu) project.
+This page lists the available source code related to the [H2020 NEANIAS](https://www.neanias.eu) project.
 
-The technical documentation of the services is available at [https://docs.neanias.eu](https://docs.neanias.eu)
+The technical documentation of the services is available at [https://docs.neanias.eu](https://docs.neanias.eu).
 
 ### Underwater Services
 
