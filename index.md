@@ -23,7 +23,7 @@ The technical documentation of the services is available at [https://docs.neania
 - Space-MOS Services (S2): based on [SCUTOUT](https://github.com/SKA-INAF/scutout) (GNU General Public License v3)
 - Space-ML Services (S3), based on:
   - [CAESAR](https://github.com/SKA-INAF/caesar) (GNU General Public License v3)
-  - [CASEAR-REST] (https://github.com/SKA-INAF/caesar-rest) (GNU General Public License v3)
+  - [CAESAR-REST](https://github.com/SKA-INAF/caesar-rest) (GNU General Public License v3)
   - [mrcnn](https://github.com/SKA-INAF/mrcnn) (GNU General Public License v3)
   - CuTEx
   - VLFF
