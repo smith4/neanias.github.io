@@ -1,4 +1,4 @@
-## H2020 NEANIAS source code repositories
+## H2020 NEANIAS open source code repositories
 
 This page lists the available source code related to the [H2020 NEANIAS](https://www.neanias.eu) project.
 
@@ -6,7 +6,7 @@ The technical documentation of the services is available at [https://docs.neania
 
 ### Underwater Services
 
-- Bathyprocessing Service (U1): based on [MB-System](https://github.com/dwcaress/MB-System/) (GNU General Public License v3)
+- Bathyprocessing Service (U1): based on [MB-System](https://github.com/dwcaress/MB-System/)
 - UW-MOS Service (U2) 
 - MapSeabed Service (U3)
 
@@ -19,12 +19,12 @@ The technical documentation of the services is available at [https://docs.neania
 
 ### Space Services
 
-- Space-VIS Services (S1): based on [ViaLactea Visual Analytics](https://github.com/NEANIAS-Space/ViaLacteaVisualAnalytics) (Apache License 2.0)
-- Space-MOS Services (S2): based on [SCUTOUT](https://github.com/SKA-INAF/scutout) (GNU General Public License v3)
+- Space-VIS Services (S1): based on [ViaLactea Visual Analytics](https://github.com/NEANIAS-Space/ViaLacteaVisualAnalytics)
+- Space-MOS Services (S2): based on [SCUTOUT](https://github.com/SKA-INAF/scutout)
 - Space-ML Services (S3), based on:
-  - [CAESAR](https://github.com/SKA-INAF/caesar) (GNU General Public License v3)
-  - [CAESAR-REST](https://github.com/SKA-INAF/caesar-rest) (GNU General Public License v3)
-  - [mrcnn](https://github.com/SKA-INAF/mrcnn) (GNU General Public License v3)
+  - [CAESAR](https://github.com/SKA-INAF/caesar)
+  - [CAESAR-REST](https://github.com/SKA-INAF/caesar-rest)
+  - [mrcnn](https://github.com/SKA-INAF/mrcnn)
   - CuTEx
   - VLFF
 
@@ -32,16 +32,16 @@ The technical documentation of the services is available at [https://docs.neania
 
 - C1 Services
 - C2 Services, based on:
-  - [Data Avenue](https://github.com/SZTAKI-LPDS/data-avenue) (Apache License 2.0)
-  - [MiCADO](https://github.com/micado-scale) (Apache License 2.0)
-  - [NextCloud](https://github.com/nextcloud/server) (GNU Affero General Public License)
+  - [Data Avenue](https://github.com/SZTAKI-LPDS/data-avenue)
+  - [MiCADO](https://github.com/micado-scale)
+  - [NextCloud](https://github.com/nextcloud/server)
 - C3 Services, based on:
-  - [Jupyter](https://github.com/jupyter/notebook/) (Modified BSD license)
-  - [BentoML](https://github.com/bentoml/BentoML) (Apache License 2.0)
-  - [Horovod](https://github.com/horovod/horovod) (Apache License 2.0)
-  - [Spark](https://github.com/apache/spark) (Apache License 2.0)
+  - [Jupyter](https://github.com/jupyter/notebook/)
+  - [BentoML](https://github.com/bentoml/BentoML)
+  - [Horovod](https://github.com/horovod/horovod)
+  - [Spark](https://github.com/apache/spark)
 - C4 Services, based on:
-  - [VD-VisIVO](https://github.com/inaf-oact-VisIVO/VisIVOServer) (GNU General Public License v2)
-  - [Splotch](https://github.com/splotchviz/splotch) (GNU General Public License v2)
-  - [Cesium Terrain Builder](https://github.com/geo-data/cesium-terrain-builder) (Apache License 2.0)
-  - [EMODnet Quantized Mesh Generator for Cesium](https://github.com/coronis-computing/emodnet_qmgc) (GNU General Public License v3)
+  - [VD-VisIVO](https://github.com/inaf-oact-VisIVO/VisIVOServer)
+  - [Splotch](https://github.com/splotchviz/splotch)
+  - [Cesium Terrain Builder](https://github.com/geo-data/cesium-terrain-builder)
+  - [EMODnet Quantized Mesh Generator for Cesium](https://github.com/coronis-computing/emodnet_qmgc)
