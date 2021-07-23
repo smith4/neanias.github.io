@@ -1,6 +1,6 @@
 ## H2020 NEANIAS open source code repositories
 
-This page lists the available source code related to the [H2020 NEANIAS](https://www.neanias.eu) project.
+This page lists the available open source code related to the [H2020 NEANIAS](https://www.neanias.eu) project.
 
 The technical documentation of the services is available at [https://docs.neanias.eu](https://docs.neanias.eu).
 
