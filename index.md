@@ -30,7 +30,8 @@ The technical documentation of the services is available at [https://docs.neania
 
 ### Core Services
 
-- C1 Services
+- C1 Open-Science lifecycle support services & Components
+  - [Common User Interface Components](https://gitlab.neanias.eu/common-services-ui-template/html-template)
 - C2 Services, based on:
   - [Data Avenue](https://github.com/SZTAKI-LPDS/data-avenue)
   - [MiCADO](https://github.com/micado-scale)
