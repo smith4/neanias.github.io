@@ -46,3 +46,4 @@ The technical documentation of the services is available at [https://docs.neania
   - [Splotch](https://github.com/splotchviz/splotch)
   - [Cesium Terrain Builder](https://github.com/geo-data/cesium-terrain-builder)
   - [EMODnet Quantized Mesh Generator for Cesium](https://github.com/coronis-computing/emodnet_qmgc)
+  - [Jupyter](https://github.com/jupyter/notebook/)
