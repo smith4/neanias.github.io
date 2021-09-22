@@ -25,8 +25,7 @@ The technical documentation of the services is available at [https://docs.neania
   - [CAESAR](https://github.com/SKA-INAF/caesar)
   - [CAESAR-REST](https://github.com/SKA-INAF/caesar-rest)
   - [mrcnn](https://github.com/SKA-INAF/mrcnn)
-  - CuTEx
-  - VLFF
+  - [Tiramisu](https://github.com/SKA-INAF/Tiramisu)
 
 ### Core Services
 
