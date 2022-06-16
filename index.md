@@ -8,13 +8,18 @@ The technical documentation of the services is available at [https://docs.neania
 
 - Bathyprocessing Service (U1): based on [MB-System](https://github.com/dwcaress/MB-System/)
 - UW-MOS Service (U2) 
-- MapSeabed Service (U3)
+- MapSeabed Service (U3), based on:
+  - [UW-MAP web server](https://gitlab.neanias.eu/u3-service/u3-server/)
+  - [UW-MAP worker](https://gitlab.neanias.eu/u3-service/u3-worker/)
 
 ### Atmospheric Services
 
 - ATMO-FLUD Service (A1)
-- ATMO-STRESS Service (A2)
-- ATMO-SEISM Service (A2)
+- ATMO-STRESS Service (A2), based on:
+  - [ATMO-STRESS web server](https://gitlab.neanias.eu/a2-service/a2-1-service/a2-1-web-app)
+  - [ATMO-STRESS worker](https://gitlab.neanias.eu/a2-service/a2-1-service/a2-1-worker)
+- ATMO-SEISM Service (A2), using:
+  - [PyRadon module](https://gitlab.neanias.eu/a2-service/a2-2-service/pyradon)
 - ATMO-4CAST Service (A3)
 
 ### Space Services
