@@ -37,6 +37,7 @@ The technical documentation of the services is available at [https://docs.neania
 - C1 Open-Science lifecycle support services & Components
   - [Common User Interface Components](https://gitlab.neanias.eu/common-services-ui-template/html-template)
 - C2 Services, based on:
+  - [Accounting Service](https://github.com/cite-sa/accounting-service)
   - [Data Avenue](https://github.com/SZTAKI-LPDS/data-avenue)
   - [MiCADO](https://github.com/micado-scale)
   - [NextCloud](https://github.com/nextcloud/server)
