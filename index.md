@@ -40,6 +40,7 @@ The technical documentation of the services is available at [https://docs.neania
   - [Data Validation Service](https://github.com/cite-sa/eval-it)
   - [OpenDMP / Argos](https://gitlab.eudat.eu/dmp/OpenAIRE-EUDAT-DMP-service-pilot)
 - C2 Services, based on:
+  - [NEANIAS Authentication & Authorization Infrastructure Service](https://github.com/keycloak/keycloak)
   - [Accounting Service](https://github.com/cite-sa/accounting-service)
   - [Data Avenue](https://github.com/SZTAKI-LPDS/data-avenue)
   - [MiCADO](https://github.com/micado-scale)
