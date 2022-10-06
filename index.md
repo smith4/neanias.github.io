@@ -46,6 +46,8 @@ The technical documentation of the services is available at [https://docs.neania
   - [MiCADO](https://github.com/micado-scale)
   - [NextCloud](https://github.com/nextcloud/server)
   - [Log Aggregation Service](https://github.com/elastic)
+  - [Configuration Management Service](https://github.com/apache/zookeeper)
+  - [Service Instance Registry Service](https://github.com/apache/zookeeper)
 - C3 Services, based on:
   - [Jupyter](https://github.com/jupyter/notebook/)
   - [BentoML](https://github.com/bentoml/BentoML)
