@@ -45,6 +45,7 @@ The technical documentation of the services is available at [https://docs.neania
   - [Data Avenue](https://github.com/SZTAKI-LPDS/data-avenue)
   - [MiCADO](https://github.com/micado-scale)
   - [NextCloud](https://github.com/nextcloud/server)
+  - [Log Aggregation Service](https://github.com/elastic)
 - C3 Services, based on:
   - [Jupyter](https://github.com/jupyter/notebook/)
   - [BentoML](https://github.com/bentoml/BentoML)
