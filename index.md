@@ -49,6 +49,7 @@ The technical documentation of the services is available at [https://docs.neania
   - [Configuration Management Service](https://github.com/apache/zookeeper)
   - [Service Instance Registry Service](https://github.com/apache/zookeeper)
 - C3 Services, based on:
+  - [AI GAteway](https://gitlab.neanias.eu/c3-services/c3-1/service)
   - [Jupyter](https://github.com/jupyter/notebook/)
   - [BentoML](https://github.com/bentoml/BentoML)
   - [Horovod](https://github.com/horovod/horovod)
